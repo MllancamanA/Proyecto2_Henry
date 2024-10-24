@@ -33,7 +33,7 @@ Para este proyecto se trabajó con la base de datos **Buenos Aires Data** que se
 
 ## Tecnologías utilizadas
 
-Para la elaboración de este proyecto se utilizó lenguaje python, Jupyther Notebook con sus librerías Pandas, Numpy, Mathplotlib y Seaborn, como las principalesra los procesos de extracción, transformación y carga de los datos, como así también para el análisis exploratorio de los datos. 
+Para la elaboración de este proyecto se utilizó lenguaje python, con sus librerías Pandas, Numpy, Mathplotlib y Seaborn, como las principales para los procesos de extracción, transformación y carga de los datos, como así también para el análisis exploratorio de los datos. 
 Para la construcción de un dashboard interactivo se utiliza Power BI.
 
 
@@ -118,7 +118,7 @@ El 61% de los accidentes listados ocurren en avenidas, que corresponden a 429 ca
 En función de lo anterior, se hacen las siguientes recomendaciones:
 
 * Focalizar recursos para mejorar la infraestructura en zonas en donde existen encrucijadas en las que esté involucrada una avenida. 
-* Aumentar los controles vehicualares y de velocidad en horarios de 6 a 9 de la mañana diariamente, dado que una gran cantidad de accidentes ocurre en esta franja. Especial atención merece el día Lunes.
+* Aumentar los controles vehiculares y de velocidad en horarios de 6 a 9 de la mañana diariamente, dado que una gran cantidad de accidentes ocurre en esta franja. Especial atención merece el día Lunes.
 * Controlar las medidas de seguridad con las que se desplazan los motociclistas, y aumentar los controles de este tipo de vehículos.
 * Disminuir la velocidad a la que pueden transitar los vehículos de carga en avenidas y calles, ya que son causante de una gran cantidad de accidentes de peatones y motociclistas.
 * Dirigir las campañas de seguridad hacia el sexo masculino, especialmente en cuanto a conducción en moto.
