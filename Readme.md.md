@@ -49,7 +49,7 @@ Las etapas de este proyecto se resumen a continuación:
 
 ## ETL (Extracción, Transformación y Carga)
 
-La etapa de extracción de datos y su transformación fue la etapa más desafiante y que tomó mayor tiempo de trabajo, debido a que los datos no venían listos para empezar a procesarlos. Las tareas realizadas consisteron en identificar la forma correcta para leer los archivos, desanidado de columnas, análisis de las bases de datos para su preproceso, eliminación de columnas innecesarias para nuestro análisis, ajuste de tipos de datos, tratamiento y análisis preliminar de datos faltantes y nulos y limpieza. En esta etapa también se realizó el análisis de sentimiento sobre la columna de comentarios que dejan los usuarios de la plataforma, aplicando los porcesos de  SentimentIntensityAnalyzer(), PorterStemmer() y  WordNetLemmatizer().  
+La etapa de extracción de datos y su transformación fue la etapa más desafiante y que tomó mayor tiempo de trabajo, debido a que los datos no venían listos para empezar a procesarlos. Las tareas realizadas consisteron en identificar la forma correcta para leer los archivos, desanidado de columnas, análisis de las bases de datos para su preproceso, eliminación de columnas innecesarias para nuestro análisis, ajuste de tipos de datos, tratamiento y análisis preliminar de datos faltantes y nulos y limpieza. 
 
 
 ## EDA (Análisis Exploratorio de Datos)
@@ -99,9 +99,11 @@ En función de lo analizado en el punto anterior, se plantearon dos objetivos en
     En primer lugar, se calculó la *Cantidad de accidentes mortales de motociclistas* para el año 2020, el cual resultó en 29, de esta manera el objetivo a cumplir es de 22 (es decir, la reducción del 7% de la cantidad de accidentes para 2020). El calcular la *Cantidad de accidentes mortales de motociclistas* para el año 2021 resultó de **59%** lo que significa que aumentó un 59% la cantidad de muertes de conductores de motociclistas respecto del 2020 (56 motociclistas)
 
 
-    * *Reducir en un 10% la tasa de víctimas en siniestros viales de peatones del último año, en CABA, en comparación con la tasa de víctimas peatones de siniestros viales del último año comparable 2019.
+* *Reducir en un 10% la tasa de víctimas en siniestros viales de peatones del último año, en CABA, en comparación con la tasa de víctimas peatones de siniestros viales del último año comparable 2019.
 
        $\text{Cantidad de accidentes mortales de víctimas peatones} = -\frac{\text{Víctimas peatones año anterior - Víctimas peatones año actual}}{\text{Víctimas peatones año anterior}}·100$
+
+Se calculó la *Cantidad de accidentes mortales de peatones* para el año 2019, el cual resultó en 35, de esta manera el objetivo a cumplir es de 31 (es decir, la reducción del 10% de la cantidad de accidentes de peatones para 2021). El calcular la *Cantidad de accidentes mortales de peatones* para el año 2021 resultó de 6% lo que significa que no se cumplió el indicador (sólo se redujo a 33 peatones).  
 
     
 
