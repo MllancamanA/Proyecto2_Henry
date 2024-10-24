@@ -101,7 +101,7 @@ En función de lo analizado en el punto anterior, se plantearon dos objetivos en
 
 * *Reducir en un 10% la tasa de víctimas en siniestros viales de peatones del último año, en CABA, en comparación con la tasa de víctimas peatones de siniestros viales del último año comparable 2019.
 
-       $\text{Cantidad de accidentes mortales de víctimas peatones} = -\frac{\text{Víctimas peatones año anterior - Víctimas peatones año actual}}{\text{Víctimas peatones año anterior}}·100$
+     - $\text{Cantidad de accidentes mortales de víctimas peatones} = -\frac{\text{Víctimas peatones año anterior - Víctimas peatones año actual}}{\text{Víctimas peatones año anterior}}·100$
 
 Se calculó la *Cantidad de accidentes mortales de peatones* para el año 2019, el cual resultó en 35, de esta manera el objetivo a cumplir es de 31 (es decir, la reducción del 10% de la cantidad de accidentes de peatones para 2021). El calcular la *Cantidad de accidentes mortales de peatones* para el año 2021 resultó de 6% lo que significa que no se cumplió el indicador (sólo se redujo a 33 peatones).  
 
